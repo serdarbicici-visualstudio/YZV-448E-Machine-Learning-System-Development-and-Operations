@@ -1,8 +1,7 @@
 # CPU vs GPU vs TPU in MLOps
  Serdar Biçici - 150210331
  
-[<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/193651aa-1da0-4d3f-8f18-03cdb5dc06a8" />
-](https://images.nvidia.com/aem-dam/Solutions/Data-Center/tesla-t4/Turing-Tensor-Core_30fps_FINAL_736x414.gif)
+![](Turing-Tensor-Core_30fps_FINAL_736x414.gif)
 
 ---
 
